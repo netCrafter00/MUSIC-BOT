@@ -1,0 +1,1 @@
+pworker: node bot.js
